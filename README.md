@@ -1,11 +1,33 @@
+## Descripción 🏝
 
-# Calculator
+Esta es un ejercicio para practicar, una calculadora de mano.
 
-A calculator app to make math operations.
+## Autor ✒️
+
+DAVID PIZARRO PALANCAR  
+
+## LinkedIn
+www.linkedin.com/in/david-pizarro-developer
+## Github
+
+## Ver ejemplo en vivo
 
 
 
-## Tools
+## Instalación
+
+Este proyecto no necesita de instalación.
+```bash
+  npm install
+  npm start
+```
+
+## Contratación
+
+Si quieres contratarme puedes escribirme a pizarro.developer@gmail.com para consultas
+
+
+## Herramientas
 
 - React Hooks - useState
 - props.children 
@@ -13,21 +35,7 @@ A calculator app to make math operations.
 - mathjs
 
 
-## Resources & References
+## Recursos
 
 - [mathjs](https://mathjs.org/)
 
-## How to Run?
-
-To run this project on your system, run
-
-```bash
-  npm install
-  npm start
-```
-
-To create a build of this project, run
-
-```bash
-  npm run build
-```
