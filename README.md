@@ -13,7 +13,7 @@ https://github.com/dpizapal
 
 ## Ver ejemplo en vivo
 
-https://dpizapal.github.io/Calculator-react/
+https://dpizapal.github.io/Calculator-React/
 
 ## Instalación
 
