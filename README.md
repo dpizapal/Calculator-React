@@ -11,7 +11,7 @@ www.linkedin.com/in/david-pizarro-developer
 
 ## Ver ejemplo en vivo
 
-https://dpizapal.github.io/Calculator-React/
+https://pizarro-calculator-react.netlify.app/
 
 ## Instalación
 
